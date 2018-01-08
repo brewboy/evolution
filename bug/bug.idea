@@ -1,0 +1,37 @@
+concept of a hive
+hive has needs that can be fulfilled by 1 or more bugs
+hive needs heavily influence a bug's motivations
+
+Maybe a constructor that takes an array of other bugs to simulate 2 or more parents
+
+external and internal inputs both acting per command heartbeat
+
+basic components:
+  drive: knows how to search for consumables
+
+How does the bug execute?
+  - heartbeat? 1 decision at a time, repeat
+  - each core component 1 or more threads that trigger a command thread once all command conditions are satisfied
+
+
+behaviors
+motivations
+maintenance
+requirements
+health
+grade
+opportunities
+evolution
+reproduction
+actions
+decisions
+location
+responses
+consumables
+by-products
+
+
+base
+  brain
+    processor
+    pressures < pressure

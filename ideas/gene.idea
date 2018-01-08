@@ -1,0 +1,5 @@
+use a dna file to define a program
+a program would be a collection of genes
+a gene file would define a set of algorithms that interacted in a certain way with certain settings/weights
+mutations could occur on a settings level
+mutations could occur at a combination level (like having 2 or more parents)
